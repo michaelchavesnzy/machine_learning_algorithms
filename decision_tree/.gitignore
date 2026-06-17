@@ -1,6 +1,10 @@
 # Ignorar ambiente virtual
 env/
 
+#DS
+.DS_Store
+**/.DS_Store
+
 # Ignorar arquivos do Python
 __pycache__/
 *.pyc
