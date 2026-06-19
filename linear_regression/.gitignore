@@ -1,0 +1,20 @@
+# Ignorar ambiente virtual
+env/
+
+#DS
+.DS_Store
+**/.DS_Store
+
+# Ignorar arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar configurações do editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignorar arquivos de dependências
+*.log
